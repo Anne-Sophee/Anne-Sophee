@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anne-Sophie
-- 👀 I’m interested in Cultural Exchange, Cinema and since a few months in UX/UI design.
-- 🌱 I’m currently working on improving my skills in web and mobile application development in order to learn more about UX/UI.
+- 👀 I’m interested in Cultural Exchange, traveling and roller skating.
+- 🌱 I’m currently working on improving my skills in web and mobile application development and as a Project Manager.
 - 🎓 I have participate in a 10 weeks bootcamp and obtained my certificate as a web and mobile app development project manager.
 - 💞️ I’m now looking for an internship.
 - 📫 You can reach me at : anesofie.menuel at gmail.com
