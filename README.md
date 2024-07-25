@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anne-Sophie
 - 👀 I’m interested in Cultural Exchange, traveling and roller skating.
-- 🌱 I’m currently working on improving my skills in web and mobile application development and as a Project Manager.
+- 🌱 I’m currently working on improving my skills in web and mobile application development.
 - 🎓 I have participate in a 10 weeks bootcamp and obtained my certificate as a web and mobile app development project manager.
-- 💞️ I’m now looking for an internship.
+- 💞️ I’ve been working as an Web developer and a Technical Account Manager for 1,5 years.
 - 📫 You can reach me at : anesofie.menuel at gmail.com
 - 💡 Find here my projects that I'm still working on.
